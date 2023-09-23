@@ -61,20 +61,22 @@
         "email": "cnorssister9@mayoclinic.com"
       }
     ],
-    "dogs": [
+    "products": [
       {
-        "id": 1,
-        "name": "Cherry",
-        "age": 2,
-        "place": "Visakhapatnam",
-        "gender": "Male"
+        "Image": "",
+        "Name": "Men's Shirt",
+        "Description": " formal shirt for men.",
+        "Gender": "Male",
+        "Category": "Shirts",
+        "Price": 39
       },
       {
-        "id": 2,
-        "name": "Tommy",
-        "age": 3,
-        "place": "Banglore",
-        "gender": "Female"
+        "Image": "",
+        "Name": "Women's Silk Saree",
+        "Description": "A beautiful saree",
+        "Gender": "Female",
+        "Category": "Saree",
+        "Price": 49
       }
     ]
   }
