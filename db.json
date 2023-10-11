@@ -78,5 +78,20 @@
         "Category": "Saree",
         "Price": 49
       }
+    ],
+    "register": [
+      {
+        "firstname": "sachin",
+        "lastname": "dubey",
+        "email": "dubey@gmail.com",
+        "password": "return"
+      }
+      
+    ],
+    "login": [
+      {
+        "email":"",
+        "password":""
+      }
     ]
   }
